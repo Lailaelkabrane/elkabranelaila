@@ -22,8 +22,8 @@ export const fr: Record<string, string> = {
   // Overview
   "Python developer and data analyst with a Licence and a Master's in Data Analytics and AI. Builds APIs and web applications, cleans and analyses data, and shipped a production AI product during a final year internship at Smartovate.":
     "Développeuse Python et data analyst, titulaire d'une Licence et d'un Master en Data Analytics et IA. Conçoit des API et des applications web, nettoie et analyse des données, et a livré un produit d'IA en production lors de son stage de fin d'études chez Smartovate.",
-  "Python developer and data analyst with a Licence in Data Analytics and AI. Builds APIs and web applications, cleans and analyses data, and shipped an AI product during a 5 month internship at Smartovate.":
-    "Développeuse Python et data analyst, titulaire d'une Licence en Data Analytics et IA. Conçoit des API et des applications web, nettoie et analyse des données, et a livré un produit d'IA lors d'un stage de 5 mois chez Smartovate.",
+  "Python developer and data analyst with a Licence in Data Analytics and AI. Builds APIs and web applications, cleans and analyses data, and shipped an AI product during a 4 month internship at Smartovate.":
+    "Développeuse Python et data analyst, titulaire d'une Licence en Data Analytics et IA. Conçoit des API et des applications web, nettoie et analyse des données, et a livré un produit d'IA lors d'un stage de 4 mois chez Smartovate.",
   "View projects": "Voir les projets",
   "Download CV": "Télécharger le CV",
   CV: "CV",
